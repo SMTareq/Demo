@@ -2,8 +2,7 @@
 {
     public class MailConfig
     {
-       // public static string SystemMail = "tareq@digiqoresystems.com";
-       // public static string SystemMailPassword = "Digiqore@2024@";
+      
 
         public static string SystemMail = "eblplc.bd@gmail.com";
         public static string SystemMailPassword = "qezqcbcedmcatioc";
